@@ -7,9 +7,9 @@ Open, save, edit .txt files.
 
 ## Requirements
 
-- Java Development Kit (JDK) version **1.8.0 or higher**
+- JRE version **1.8.0 or higher**
 - Works on both 32-bit and 64-bit systems
-- No separate JRE installation required
+- No separate JDK installation required
 
 
 ## Open Source
